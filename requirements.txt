@@ -1,0 +1,15 @@
+# These libraries include:
+os
+pyaudio
+datetime
+webbrowser
+playsound
+gtts
+spacy
+keyboard
+playsound
+SpeechRecognition
+spotipy
+
+pip install spacy
+python -m spacy download en_core_web_sm
